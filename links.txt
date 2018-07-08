@@ -1,0 +1,11 @@
+https://firebase.google.com/docs/reference/admin/node/admin.firestore?authuser=0
+
+https://firebase.google.com/docs/firestore/quickstart?authuser=0
+
+https://console.firebase.google.com/project/node-firestore-88879/database/firestore/data~2F
+
+https://www.joshmorony.com/communicating-between-an-ionic-application-and-a-nodejs-backend/
+
+https://www.joshmorony.com/integrating-an-ionic-application-with-a-nodejs-backend/
+
+http://andrealaw.000webhostapp.com/2017/08/use-firebase-admin-sdk-firebase-database-nodejs-server-locally/
